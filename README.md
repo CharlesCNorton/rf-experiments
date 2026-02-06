@@ -35,7 +35,7 @@ Frontier physics experiments using chaotic synchronization over 433 MHz RF.
 |---|------------|--------|
 | H1 | [Stochastic Resonance Phase Transition](h1_stochastic_resonance/) | Sharp transition confirmed |
 | H3 | [Lorenz Reservoir Computing](h3_reservoir_computing/) | 100% classification accuracy |
-| H4 | [Synchronization Critical Exponent](h4_critical_exponent/) | β = 0.151 (2D Percolation class) |
+| H4 | [Synchronization Transition Analysis](h4_critical_exponent/) | Smooth crossover, not critical |
 | H5 | [Loschmidt Echo = Lyapunov](h5_loschmidt_lyapunov/) | Growth rate matches λ₁ within 8% |
 | H6 | [Transient Chaos Escape Rate](h6_escape_rate/) | Weibull distribution (k = 3.76) |
 | H8 | [Generalized Synchronization](h8_generalized_sync/) | Functional relationship confirmed |
